@@ -1,0 +1,1 @@
+-r applications/multisource_rag_app/requirements.txt
