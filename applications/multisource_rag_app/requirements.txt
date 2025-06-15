@@ -1,0 +1,16 @@
+agentscope==0.1.5
+gunicorn==21.2.0
+llama-index==0.10.46
+llama-index-vector-stores-elasticsearch==0.2.3
+llama-index-readers-docstring-walker==0.1.4
+tree-sitter==0.22.3
+tree-sitter-languages==1.10.2
+flask_httpauth==4.8.0
+openpyxl==3.1.2
+pandas==2.2.2
+networkx==3.3
+oss2==2.18.5
+numpy==1.26.4
+regex==2024.5.15
+gradio==4.44.0
+modelscope_studio==0.5.0
